@@ -21,3 +21,10 @@ gcc-7 sand_pile.c -Wall -O2 -lgsl -lgslcblas -o main.out
  - Write about the model
  - Generate the graphs and plots.
  - Conclude
+ 
+ 
+ ## Power Law
+ 
+ [Power Law for frequency of avalanche size](git remote add origin https://github.com/gcontesini/SOC_Sand_piles.git)
+ 
+ ## Finit Size Scale Analysis
