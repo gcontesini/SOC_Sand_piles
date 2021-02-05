@@ -6,7 +6,8 @@ ts_data = 'Data/frequency_128.txt'
 
 set grid
 set logscale xy
-
+set xlabel "Avalanche Size"
+set ylabel "Frequency"
 set xrange[0.9:5e2] 
 
 plot ts_data u 1:2 notitle w points pointtype 4 lc rgb "blue"  
