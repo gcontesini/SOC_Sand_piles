@@ -25,6 +25,6 @@ gcc-7 sand_pile.c -Wall -O2 -lgsl -lgslcblas -o main.out
  
  ## Power Law
  
- [Power Law for frequency of avalanche size](https://github.com/gcontesini/SOC_Sand_piles/blob/master/power_law.png)
+ ![Power Law for frequency of avalanche size](https://github.com/gcontesini/SOC_Sand_piles/blob/master/power_law.png)
  
  ## Finit Size Scale Analysis
